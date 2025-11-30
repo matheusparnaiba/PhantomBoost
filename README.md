@@ -5,7 +5,7 @@
   # 👻 PHANTOM BOOST
   **O Farm de Horas Steam Definitivo.**
 
-  [![Version](https://img.shields.io/github/v/release/SEU_USUARIO/SEU_REPO?style=for-the-badge&color=00ff41&label=Versão)](https://github.com/SEU_USUARIO/SEU_REPO/releases/latest)
+  [![Version](https://img.shields.io/github/v/release/matheusparnaiba/PhantomBoost?style=for-the-badge&color=00ff41&label=Versão)](https://github.com/SEU_USUARIO/SEU_REPO/releases/latest)
   [![Platform](https://img.shields.io/badge/plataforma-Windows-blue?style=for-the-badge&logo=windows)]()
   [![Security](https://img.shields.io/badge/segurança-AES--256-red?style=for-the-badge&logo=lock)]()
   [![Status](https://img.shields.io/badge/status-ONLINE-success?style=for-the-badge)]()
