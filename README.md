@@ -16,7 +16,7 @@
   </p>
 
   <h3>
-    <a href="https://github.com/matheusparnaiba/PhantomBoost/latest">📥 Baixar Última Versão</a>
+    <a href="https://github.com/matheusparnaiba/PhantomBoost">📥 Baixar Última Versão</a>
     <span> • </span>
     <a href="https://github.com/matheusparnaiba/PhantomBoost/issues">💬 Reportar Bug</a>
   </h3>
