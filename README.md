@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/vnEuw9I.png" alt="PhantomBoost Logo" width="120" height="120" />
+  <img src="https://i.imgur.com/YM1Q6p0.png" alt="PhantomBoost Logo" width="120" height="120" />
 
   # 👻 PHANTOM BOOST
   **O Farm de Horas Steam Definitivo.**
