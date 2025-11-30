@@ -47,7 +47,7 @@ Diferente de scripts complexos ou sites que pedem sua senha e cobram mensalidade
 ## 📸 Interface
 
 <div align="center">
-  <img src="https://imgur.com/6ec689e7-b66d-496c-9168-d307a5e0610e" alt="Interface Principal" style="border-radius: 10px; border: 2px solid #00ff41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);">
+  <img src="https://i.imgur.com/QyMKuMj.jpeg" alt="Interface Principal" style="border-radius: 10px; border: 2px solid #00ff41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);">
 </div>
 
 ---
