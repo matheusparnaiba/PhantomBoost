@@ -55,7 +55,7 @@ Diferente de scripts complexos ou sites que pedem sua senha e cobram mensalidade
 ## 🚀 Instalação e Uso
 
 ### 1. Download
-Vá até a aba **[Releases](https://github.com/SEU_USUARIO/SEU_REPO/releases)** e baixe o arquivo `PhantomBoost.Setup.exe`.
+Vá até a aba **[Releases](https://github.com/matheusparnaiba/PhantomBoost/releases)** e baixe o arquivo `PhantomBoost.Setup.exe`.
 
 ### 2. Instalação
 Execute o instalador. Ele fará todo o processo automaticamente.
@@ -99,7 +99,7 @@ Falsos positivos são comuns em softwares novos criados em Electron que não pos
 ## 🛠️ Suporte & Bugs
 
 Encontrou um erro ou tem uma ideia para melhorar o projeto?
-Abra uma **[Issue](https://github.com/SEU_USUARIO/SEU_REPO/issues)** aqui no GitHub.
+Abra uma **[Issue](https://github.com/matheusparnaiba/PhantomBoost/issues)** aqui no GitHub.
 
 ---
 
