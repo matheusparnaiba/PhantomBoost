@@ -104,6 +104,6 @@ Abra uma **[Issue](https://github.com/matheusparnaiba/PhantomBoost/issues)** aqu
 ---
 
 <div align="center">
-  <p>Desenvolvido com 💚 por <strong>Phantom Dev</strong></p>
+  <p>Desenvolvido com 💚 por <strong>MaTT</strong></p>
   <p><i>Este projeto não é afiliado à Valve Corporation. Steam é uma marca registrada da Valve Corp.</i></p>
 </div>
