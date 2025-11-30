@@ -47,7 +47,7 @@ Diferente de scripts complexos ou sites que pedem sua senha e cobram mensalidade
 ## 📸 Interface
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/0d1117/00ff41?text=Preview+do+PhantomBoost" alt="Interface Principal" style="border-radius: 10px; border: 2px solid #00ff41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);">
+  <img src="https://i.imgur.com/HHoyr9f.png" alt="Interface Principal" style="border-radius: 10px; border: 2px solid #00ff41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);">
 </div>
 
 ---
