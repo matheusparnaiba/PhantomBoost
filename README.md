@@ -2,7 +2,7 @@
 
   <img src="https://i.imgur.com/YM1Q6p0.png" alt="PhantomBoost Logo" width="120" height="120" />
 
-  # 👻 PHANTOM BOOST
+  # 👻 PhantomBoost
   **O Farm de Horas Steam Definitivo.**
 
   [![Version](https://img.shields.io/github/v/release/matheusparnaiba/PhantomBoost?style=for-the-badge&color=00ff41&label=Versão)](https://github.com/SEU_USUARIO/SEU_REPO/releases/latest)
